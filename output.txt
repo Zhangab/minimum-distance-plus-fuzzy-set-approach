@@ -1,0 +1,5 @@
+There were 2 replciations initially, but only 2 non-redundant queries were performed to save computation time.
+ The results are listed below: 
+No.	Query	Species identified by minimum genetic distance	Fuzzymembershipvalue_MIMI	
+1	GWOR235308	Ennada_pellicata	Ennada_pellicata	  1.00	
+2	GWOR219908	Perizoma_pastoralis	Perizoma_pastoralis	  1.00	
